@@ -48,9 +48,9 @@ The model predicts whether the input health data corresponds to a diabetic or no
 
 **🧪 Results**
 
-Training Accuracy: 78.5% (example value)
+Training Accuracy: 78.5%
 
-Testing Accuracy: 77.4% (example value)
+Testing Accuracy: 77.4%
 
 **📜 Future Enhancements**
 
